@@ -1,0 +1,43 @@
+[
+    {
+      "_id": 1,
+      "Type": "Affectation",
+      "Statut": "Approuvé",
+      "LaDate": "2024-03-24",
+      "Materiel": "1",
+      "Utilisateur": "1"
+    },
+    {
+      "_id": 2,
+      "Type": "Retour",
+      "Statut": "En attente",
+      "LaDate": "2024-03-25",
+      "Materiel": "2",
+      "Utilisateur": "2"
+    },
+    {
+      "_id": 3,
+      "Type": "Affectation",
+      "Statut": "Refusé",
+      "LaDate": "2024-03-26",
+      "Materiel": "3",
+      "Utilisateur": "3"
+    },
+    {
+      "_id": 4,
+      "Type": "Retour",
+      "Statut": "Approuvé",
+      "LaDate": "2024-03-27",
+      "Materiel": "4",
+      "Utilisateur": "4"
+    },
+    {
+      "_id": 5,
+      "Type": "Affectation",
+      "Statut": "Approuvé",
+      "LaDate": "2024-03-28",
+      "Materiel": "5",
+      "Utilisateur": "5"
+    }
+  ]
+  

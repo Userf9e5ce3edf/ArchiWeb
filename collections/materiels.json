@@ -1,0 +1,12 @@
+[
+    {"_id": 1, "Nom": "Ordinateur", "Type": "Électronique", "Disponibilite": 1},
+    {"_id": 2, "Nom": "Projecteur", "Type": "Électronique", "Disponibilite": 1},
+    {"_id": 3, "Nom": "Chaise", "Type": "Mobilier", "Disponibilite": 1},
+    {"_id": 4, "Nom": "Table", "Type": "Mobilier", "Disponibilite": 0},
+    {"_id": 5, "Nom": "Tableau blanc", "Type": "Accessoire", "Disponibilite": 1},
+    {"_id": 6, "Nom": "Imprimante", "Type": "Électronique", "Disponibilite": 1},
+    {"_id": 7, "Nom": "Scanner", "Type": "Électronique", "Disponibilite": 0},
+    {"_id": 8, "Nom": "Téléphone fixe", "Type": "Électronique", "Disponibilite": 1},
+    {"_id": 9, "Nom": "Extincteur", "Type": "Sécurité", "Disponibilite": 1},
+    {"_id": 10, "Nom": "Détecteur de fumée", "Type": "Sécurité", "Disponibilite": 1}
+]

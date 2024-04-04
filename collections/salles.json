@@ -1,0 +1,12 @@
+[
+    {"_id": 1, "Nom": "Salle 101", "Emplacement": "Bâtiment A"},
+    {"_id": 2, "Nom": "Salle 102", "Emplacement": "Bâtiment A"},
+    {"_id": 3, "Nom": "Salle 203", "Emplacement": "Bâtiment B"},
+    {"_id": 4, "Nom": "Salle 204", "Emplacement": "Bâtiment B"},
+    {"_id": 5, "Nom": "Salle 305", "Emplacement": "Bâtiment C"},
+    {"_id": 6, "Nom": "Salle 301", "Emplacement": "Bâtiment C"},
+    {"_id": 7, "Nom": "Salle 402", "Emplacement": "Bâtiment D"},
+    {"_id": 8, "Nom": "Salle 403", "Emplacement": "Bâtiment D"},
+    {"_id": 9, "Nom": "Salle 504", "Emplacement": "Bâtiment E"},
+    {"_id": 10, "Nom": "Salle 505", "Emplacement": "Bâtiment E"}
+]
